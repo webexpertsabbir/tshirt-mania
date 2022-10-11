@@ -1,0 +1,8 @@
+.singel-product img{
+    width: 100%;
+}
+.singel-product{
+    border: 1px solid royalblue;
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
